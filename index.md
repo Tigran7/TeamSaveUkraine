@@ -23,6 +23,6 @@ Our group will create a real estate website for Derek's mom. Possible features:
 - Zillow API
 - Information on local housing market
 - Housing market report API
-### [Wire Frame](![Drawing-3 sketchpad](https://user-images.githubusercontent.com/89666148/158115684-6175399d-47d4-43dc-acd7-0e0bb92ecc46.jpeg)
+### [Drawing-3 sketchpad](https://user-images.githubusercontent.com/89666148/158115684-6175399d-47d4-43dc-acd7-0e0bb92ecc46.jpeg)
 
 
