@@ -2,7 +2,7 @@
 
 ## Project Contributers
 
-|[Scrum Board](https://github.com/Tigran7/TeamSaveUkraine/projects/1)|[Insight Graph](https://github.com/Tigran7/TeamSaveUkraine/graphs/contributors)|[Runtime Link]()|
+|[Scrum Board](https://github.com/Tigran7/TeamSaveUkraine/projects/1)|[Insight Graph](https://github.com/Tigran7/TeamSaveUkraine/graphs/contributors)|[Runtime Link]()| |[Team Review Ticket](https://github.com/Tigran7/TeamSaveUkraine/issues/4)|
 | - | - | - |
 
 |Name|Github Profile|Individual Repository|Role|[Team Commits](https://github.com/Tigran7/TeamSaveUkraine/commits/main)|
