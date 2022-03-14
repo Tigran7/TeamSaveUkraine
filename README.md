@@ -7,10 +7,10 @@
 
 |Name|Github Profile|Individual Repository|Role|Commits|
 | - | - | - | - | - |
-|Jay Manjrekar|[@jaymanjrekar](https://github.com/jaymanjrekar)|[Jay](https://github.com/JayManjrekar/Jay-s-Personal-Repository/tree/gh-pages)|Github Admin||
+|Jay Manjrekar|[@jaymanjrekar](https://github.com/jaymanjrekar)|[Jays Individual Repository](https://github.com/JayManjrekar/Jay-s-Personal-Repository/tree/gh-pages)|Github Admin|[Commits](https://github.com/JayManjrekar/Jay-s-Personal-Repository/commits/gh-pages)|
 |Pranav Parthsarathy|||||
 |Aryan Shah|||||
-|Tigran A||||Scrum Master|
+|Tigran A|||Scrum Master||
 |Derek Bokelman|||||
 
 # Time Box
