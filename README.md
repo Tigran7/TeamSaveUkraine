@@ -11,7 +11,7 @@
 |Pranav Sarathy|[@PranavP04](https://github.com/PranavP04)|[Pranav's Individual Repository](https://github.com/PranavP04/Pranav-Data-Structures-Repository-Tri-3)|Web Designer|[Commits](https://github.com/PranavP04/Pranav-Data-Structures-Repository-Tri-3/commits/gh-pages)|
 |Aryan Shah|[@Aryanboxout](https://github.com/Aryanboxout)|[Aryan's Individual Repository](https://github.com/Aryanboxout/Aryanspersonal)|[Deployment manager]|[commits](https://github.com/Aryanboxout/Aryanspersonal/graphs/commit-activity)|
 |Tigran A|[@Tigran7](https://github.com/Tigran7)|[Tigran's Individual Repo](https://github.com/Tigran7/TigranCSP3)|Scrum Master|[Team Github Page](https://tigran7.github.io/TeamSaveUkraine/) [Personal](https://github.com/Tigran7/TigranCSP3/commits/main)|
-|Derek Bokelman| @DerekBokelman | (https://github.com/DerekBokelman/IndividualPage/commits/main) | Derek's Individual Repository||
+|Derek Bokelman| [@DerekBokelman](https://github.com/DerekBokelman) | [Derek's Individual Repository](https://github.com/DerekBokelman/IndividualPage/commits/main) | Design Manager | [Commits](https://github.com/DerekBokelman/IndividualPage/commits/main)|
 
 # Time Box
 ## Week 0
