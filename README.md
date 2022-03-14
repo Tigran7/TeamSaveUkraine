@@ -1,2 +1,21 @@
-# TeamSaveUkraine
-CSP TRI 3 group: Tigran, Pranav, Aryan, Jay, Derek
+# Kylies-disciples
+
+## Project Contributers
+
+|[Scrum Board](https://github.com/kar722/kylies-disciples/projects/1)|[Insight Graph](https://github.com/kar722/kylies-disciples/graphs/contributors)|[Runtime Link](https://github.com/JayManjrekar/Jay-s-Personal-Repository/commits/gh-pages)|
+| - | - | - |
+
+|Name|Github Profile|Individual Repository|Role|Commits|
+| - | - | - | - | - |
+|Jay Manjrekar|[@jaymanjrekar](https://github.com/jaymanjrekar)|[Jay](https://github.com/JayManjrekar/Jay-s-Personal-Repository/tree/gh-pages)|Github Admin||
+|Pranav Parthsarathy|||||
+|Aryan Shah|||||
+|Tigran A||||Scrum Master|
+|Derek Bokelman|||||
+
+# Time Box
+## Week 0
+|Tasks|Evidence|
+| - | - |
+|Web Project: Project Description, Project Plans/Ideas/Wires, Time box|[Time Box](https://github.com/kar722/kylies-disciples#readme)|
+|Team Roles described, Project Owner or Sponsor described, Scrum Board started|[Scrum Board](https://github.com/kar722/kylies-disciples/projects/1)|
