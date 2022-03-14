@@ -2,7 +2,7 @@
 
 ## Project Contributers
 
-|[Scrum Board](https://github.com/Tigran7/TeamSaveUkraine/projects/1)|[Insight Graph](https://github.com/kar722/kylies-disciples/graphs/contributors)|[Runtime Link](https://github.com/JayManjrekar/Jay-s-Personal-Repository/commits/gh-pages)|
+|[Scrum Board](https://github.com/Tigran7/TeamSaveUkraine/projects/1)|[Insight Graph](https://github.com/Tigran7/TeamSaveUkraine/graphs/contributors)|[Runtime Link](https://github.com/JayManjrekar/Jay-s-Personal-Repository/commits/gh-pages)|
 | - | - | - |
 
 |Name|Github Profile|Individual Repository|Role|Commits|
