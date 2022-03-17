@@ -6,4 +6,4 @@
 ### [Wire Frame](https://user-images.githubusercontent.com/89666148/158116333-8be72e38-3c38-4c2d-b1ab-c5c69a0c1af8.jpeg)
 
 
-
+| This is a single cell containing a \| character |
