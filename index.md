@@ -1,5 +1,6 @@
-{% include nav.html %}
+
 # Team Save Ukraine
+| (Project Description and Plans)[] | (Team Roles)[] | (Sponsor)[] |
 ## Real Estate Project
 ### Project Description and Plans
 Our group will create a real estate website for Derek's mom. Possible features:
@@ -18,5 +19,5 @@ Our group will create a real estate website for Derek's mom. Possible features:
 ### Sponsor
 Derek's Mom, a real estate agent
 
-| Project Description and Plans | Team Roles | Sponsor |
+
 
