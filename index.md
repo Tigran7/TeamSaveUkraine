@@ -1,6 +1,6 @@
 
 # Team Save Ukraine
-| [Project Description and Plans](plans.md) | Team Roles | Sponsor |
+| [Project Description and Plans](plans.md) | [Team Roles](roles.md) | Sponsor |
 ## Real Estate Project
 ### Project Description and Plans
 Our group will create a real estate website for Derek's mom. Possible features:
