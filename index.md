@@ -16,8 +16,9 @@ Our group will create a real estate website for Derek's mom. Possible features:
 - Technical Officer: Pranav
 ### Sponsor
 Derek's Mom, a real estate agent
-|       Project Description and Plans  | Team Roles |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+| Project Description and Plans | Team Roles |
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
