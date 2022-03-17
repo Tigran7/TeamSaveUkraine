@@ -1,3 +1,4 @@
+{% include nav.html %}
 # Team Save Ukraine
 ## Real Estate Project
 ### Project Description and Plans
